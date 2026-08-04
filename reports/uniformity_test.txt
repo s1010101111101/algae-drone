@@ -1,0 +1,2 @@
+Pearson chi-square against equal monthly event counts: 1964.972; df=11. Interpret with caution: reports are voluntary and observations are not independent.
+
